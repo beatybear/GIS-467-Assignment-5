@@ -1,0 +1,52 @@
+FIPS,NAME,POP1997
+53,Washington,5604260
+30,Montana,888723
+23,Maine,1244828
+38,North Dakota,644782
+46,South Dakota,736549
+56,Wyoming,484529
+55,Wisconsin,5189399
+16,Idaho,1210819
+50,Vermont,591659
+27,Minnesota,4690847
+41,Oregon,3245429
+33,New Hampshire,1171443
+19,Iowa,2859263
+25,Massachusetts,6106984
+31,Nebraska,1660613
+36,New York,18177296
+42,Pennsylvania,12051902
+09,Connecticut,3277113
+44,Rhode Island,988370
+34,New Jersey,8018326
+18,Indiana,5874844
+32,Nevada,1652983
+49,Utah,2034167
+06,California,32197302
+39,Ohio,11202691
+17,Illinois,11890919
+11,District of Columbia,535027
+10,Delaware,731218
+54,West Virginia,1828832
+24,Maryland,5100839
+08,Colorado,3885615
+21,Kentucky,3906565
+20,Kansas,2582933
+51,Virginia,6728895
+29,Missouri,5387753
+04,Arizona,4528866
+40,Oklahoma,3318622
+37,North Carolina,7411239
+47,Tennessee,5373181
+48,Texas,19384453
+35,New Mexico,1736679
+01,Alabama,4298715
+28,Mississippi,2733442
+13,Georgia,7460545
+45,South Carolina,3721747
+05,Arkansas,2529864
+22,Louisiana,4364629
+12,Florida,14564508
+15,Hawaii,1190662
+02,Alaska,611136
+26,Michigan,9628259
